@@ -112,13 +112,13 @@ transition: all 0.2s ease-in-out;
 }
 .productFeaturesBlock h1{
 font-family: 'Roboto Slab', serif;
-font-size:26px;
+font-size:23px;
 text-align:center;
 font-weight:400;
 }
 .productFeaturesBlock p{
 font-family: 'Open Sans', sans-serif;
-font-size:16px;
+font-size:15px;
 color:#777777;
 text-align:center;
 margin-top:30px;
@@ -133,21 +133,21 @@ transition: all 0.2s ease-in-out;
 line-height: 1.5;
 }
 .descriptionOne {
-padding-bottom: 80px;
+padding-bottom: 40px;
 clear:both;
 }
 .descriptionTwo {
-padding-top: 50px;
-padding-bottom: 80px;
+padding-top: 30px;
+padding-bottom: 40px;
 overflow: hidden;
 }
 .descriptionBig {
-height: 550px;
+height: 450px;
 background-color: #F5F5F5;
 overflow: hidden;
 }
 .descriptionBigText {
-margin-top: 120px;
+margin-top: 30px;
 }
 .descriptionCenter {
 padding-top: 50px;
@@ -158,7 +158,7 @@ float: left;
 width: 29%;
 }
 .descriptionOne img {
-margin: 0 30px 80px 0;
+margin: 0 30px 40px 0;
 float: left;
 width: 400px;
 height: auto;
@@ -189,23 +189,23 @@ margin-top:30px
 .description h1 {
 font-family: 'Roboto Slab', serif;
 font-weight:400;
-font-size: 26px;
+font-size: 23px;
 }
 .description h2 {
 font-family: 'Roboto Slab', serif;
 font-weight:400;
-font-size: 18px;
+font-size: 16px;
 }
 .descriptionOne h1 {
 margin-bottom: 20px;
-margin-top: 60px;
+margin-top: 40px;
 }
 .descriptionTwo h1 {
 margin-bottom: 20px;
 }
 .description p {
 color:#000000;
-font-size: 16px;
+font-size: 15px;
 }
 .descriptionBigText p {
 margin-top: 25px;
@@ -288,9 +288,9 @@ font-weight: 500;
 text-align: center;
 }
 .featuresBlock p {
-margin-top: 25px;
+margin-top: 20px;
 font-family: 'Open Sans', sans-serif;
-font-size: 16px;
+font-size: 15px;
 color: #666666;
 }
 .videoarea {
@@ -316,10 +316,10 @@ text-align: center;
 }
 .videoarea h1 {
 font-family: 'Roboto Slab', serif;
-font-size: 40px;
+font-size: 36px;
 }
 .videoarea p {
-font-size: 26px;
+font-size: 23px;
 color: #202020;
 margin: 40px 0 60px 0;
 }
@@ -349,7 +349,7 @@ padding: 40px 0 0 0;
 #footerContainer h1 {
 font-size: 18px;
 color: #fff;
-margin: 0 0 26px 0;
+margin: 0 0 23px 0;
 font-weight: 300;
 padding: 0;
 }
